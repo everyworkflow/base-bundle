@@ -1,0 +1,21 @@
+EveryWorkflowEavBundle:
+    resource: '@EveryWorkflowEavBundle/Resources/config/routes.yaml'
+
+EveryWorkflowScopeBundle:
+    resource: '@EveryWorkflowScopeBundle/Resources/config/routes.yaml'
+
+# EveryWorkflowSettingBundle:
+#     resource: '@EveryWorkflowSettingBundle/Resources/config/routes.yaml'
+
+EveryWorkflowUserBundle:
+    resource: '@EveryWorkflowUserBundle/Resources/config/routes.yaml'
+
+EveryWorkflowTestBundle:
+    resource: '@EveryWorkflowTestBundle/Resources/config/routes.yaml'
+
+EveryWorkflowAdminPanelBundle:
+    resource: '@EveryWorkflowAdminPanelBundle/Resources/config/routes.yaml'
+
+# EveryWorkflowBaseBundle_Controller:
+#     resource: "../../Controller/"
+#     type: annotation
