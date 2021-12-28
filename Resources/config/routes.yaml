@@ -10,9 +10,6 @@ EveryWorkflowScopeBundle:
 EveryWorkflowUserBundle:
     resource: '@EveryWorkflowUserBundle/Resources/config/routes.yaml'
 
-EveryWorkflowAdminPanelBundle:
-    resource: '@EveryWorkflowAdminPanelBundle/Resources/config/routes.yaml'
-
 # EveryWorkflowBaseBundle_Controller:
 #     resource: "../../Controller/"
 #     type: annotation
