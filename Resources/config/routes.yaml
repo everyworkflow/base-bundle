@@ -1,11 +1,17 @@
+EveryWorkflowAuthBundle:
+    resource: "@EveryWorkflowAuthBundle/Resources/config/routes.yaml"
+
 EveryWorkflowEavBundle:
     resource: '@EveryWorkflowEavBundle/Resources/config/routes.yaml'
 
 EveryWorkflowScopeBundle:
     resource: '@EveryWorkflowScopeBundle/Resources/config/routes.yaml'
 
-# EveryWorkflowSettingBundle:
-#     resource: '@EveryWorkflowSettingBundle/Resources/config/routes.yaml'
+EveryWorkflowMenuBundle:
+    resource: '@EveryWorkflowMenuBundle/Resources/config/routes.yaml'
+
+EveryWorkflowSettingBundle:
+    resource: '@EveryWorkflowSettingBundle/Resources/config/routes.yaml'
 
 EveryWorkflowUserBundle:
     resource: '@EveryWorkflowUserBundle/Resources/config/routes.yaml'
